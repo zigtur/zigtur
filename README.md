@@ -1,3 +1,11 @@
+# About Zigtur
+
+[**Zigtur**](https://x.com/zigtur) is an independent blockchain security researcher dedicated to enhancing the security of the blockchain ecosystem.
+With a history of identifying numerous security vulnerabilities across various protocols in public audit contests and private audits,
+
+**Zigtur** strives to contribute to the safety and reliability of blockchain projects through meticulous security research and reviews.
+Explore previous work [here](https://cantina.xyz/u/zigtur) or reach out on X [@zigtur](https://x.com/zigtur).
+
 # Portfolio
 
 ## Rust and Rust-variants
