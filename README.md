@@ -50,8 +50,8 @@ Explore previous work [here](https://cantina.xyz/u/zigtur) or reach out on X [@z
 | Project                             | Type         | Date                    | Link                                    |
 |-------------------------------------|--------------|-------------------------|-----------------------------------------|
 | BLS signature                       | Cryptography | March 2024              | [BLS-signature](https://github.com/zigtur/BLS-signature) |
-| Groth16 Python implementation       | Cryptography | November 2023           | [Groth16](https://github.com/zigtur/Groth16)|
-| RareSkills ZK Book                  | Cryptography | November 2023           | [Rareskills-ZK-book](https://github.com/zigtur/Rareskills-ZK-book)  |
+| Groth16 Python implementation       | Cryptography | November 2023           | [Groth16](https://github.com/zigtur/Groth16)|
+| RareSkills ZK Book                  | Cryptography | November 2023           | [Rareskills-ZK-book](https://github.com/zigtur/Rareskills-ZK-book)  |
 | RareSkills Solidity Bootcamp        | Solidity     | February to July 2023   | [Rareskills-Solidity-Bootcamp](https://github.com/zigtur/Rareskills-Solidity-Bootcamp) |
 
 
