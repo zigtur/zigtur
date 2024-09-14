@@ -1,11 +1,3 @@
-# About Zigtur
-
-[**Zigtur**](https://x.com/zigtur) is an independent blockchain security researcher dedicated to enhancing the security of the blockchain ecosystem.
-With a history of identifying numerous security vulnerabilities across various protocols in public audit contests and private audits,
-
-**Zigtur** strives to contribute to the safety and reliability of blockchain projects through meticulous security research and reviews.
-Explore previous work [here](https://cantina.xyz/u/zigtur) or reach out on X [@zigtur](https://x.com/zigtur).
-
 # Portfolio
 
 ## Rust and Rust-variants
@@ -24,6 +16,11 @@ Explore previous work [here](https://cantina.xyz/u/zigtur) or reach out on X [@z
 
 | Project              | Project review type | Date              | Review type         | Result                                                                    |
 |----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Ironclad - IUSD      | Smart contract      | July 2024         | Private audit       | [Audit report](./reports/ByteMasons-iUSD_Zigtur_Audit_V1.1.pdf)        |
+| Reliquary V2 - Ironclad Rehypothecation Ramses| Smart contract | July 2024| Private audit | [Audit report](./reports/ByteMasons-ReliquaryV2_Zigtur_Audit_V1.1.pdf)|
+| Ironclad Reaper Strategy Option Token Compounder| Smart contract| July 2024| Private audit| [Audit report](./reports/ByteMasons-OptionsCompounder_Zigtur_Audit_V1.1.pdf) |
+| Ironclad Option Token Zap| Smart contract  | July 2024         | Private audit       | [Audit report](./reports/ByteMasons-oTokenZAP_Zigtur_Audit_V1.2.pdf)      |
+| Cod3x Leverager      | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/Granary-Leverager_Zigtur_Audit_V1.1.pdf)         |
 | CyberDEX             | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/CyberDEX-PublicSale-Audit_V1.1.pdf)              |
 | Enzym                | Smart contract      | June 2024         | Private audit       | [Audit report](./reports/Enzym-Vesting-Audit_V1.2.pdf)              |
 | AAVE v3.1            | Smart contract      | May 2024          | Cantina Competition | [Rank: 3rd 🥉](https://twitter.com/cantinaxyz/status/1798461307257253910) |
@@ -45,6 +42,8 @@ Explore previous work [here](https://cantina.xyz/u/zigtur) or reach out on X [@z
 | Babylon Chain        | Infrastructure                       | June 2024     | Cantina Competition  | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/b7c7def5-1033-4a4c-809d-08e507fb3583) |
 | Blast                | Smart contract & Infrastructure (Go) | February 2024 | Cantina Competition  | [Rank: 6th](https://cantina.xyz/leaderboard/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) |
 
+
+
 ## Learnings
 
 | Project                             | Type         | Date                    | Link                                    |
@@ -53,5 +52,4 @@ Explore previous work [here](https://cantina.xyz/u/zigtur) or reach out on X [@z
 | Groth16 Python implementation       | Cryptography | November 2023           | [Groth16](https://github.com/zigtur/Groth16)|
 | RareSkills ZK Book                  | Cryptography | November 2023           | [Rareskills-ZK-book](https://github.com/zigtur/Rareskills-ZK-book)  |
 | RareSkills Solidity Bootcamp        | Solidity     | February to July 2023   | [Rareskills-Solidity-Bootcamp](https://github.com/zigtur/Rareskills-Solidity-Bootcamp) |
-
 
