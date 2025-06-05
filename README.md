@@ -2,7 +2,7 @@
 
 Hey! Zigtur here!
 
-I'm a Lead Security Researcher at [Spearbit](https://spearbit.com/) & [Cantina](https://cantina.xyz/).
+I'm a Lead Security Researcher at [Spearbit](https://spearbit.com/) & [Cantina](https://cantina.xyz/). I'm also a Rust instructor at [Rareskills](https://www.rareskills.io/).
 
 Rust, Go, Solidity, even Java: I find bugs in any language!
 
@@ -15,12 +15,12 @@ More of my work can be found at [zigtur/audits](https://github.com/zigtur/audits
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| Ethereum Pectra      | Infrastructure  (Go, Rust, Java, C#, ...) | March 2025  | Cantina Competition | [Rand: 2nd](https://cantina.xyz/competitions/pectra/leaderboard)        |
 | Ronin Network        | Infrastructure - go-ethereum  | January 2025      | Cantina Competition | [Rank: 3rd 🥉](https://x.com/cantinaxyz/status/1900168513022812443) |
 | Berachain            | Infrastructure - Cosmos SDK   | January 2025      | Cantina Competition | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
 | Tensor               | Smart contract - Solana       | November 2024     | Cantina Competition | [Rank: 1st 🥇](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard) |
 | Babylon Chain        | Infrastructure - Go & Bitcoin | June 2024         | Cantina Competition | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/b7c7def5-1033-4a4c-809d-08e507fb3583) |
 | Grass                | Smart contract - Solana       | June 2024         | Cantina Competition | [Rank: 2nd 🥈](https://cantina.xyz/leaderboard/3211ee0d-133f-43a0-837e-8dc1ecfaa424) |
-| AAVE v3.1            | Smart contract - Solidity     | May 2024          | Cantina Competition | [Rank: 3rd 🥉](https://twitter.com/cantinaxyz/status/1798461307257253910) |
 | Alchemix             | Smart contract - Solidity     | April 2024        | Sherlock Contest    | [Rank: 1st 🥇](https://twitter.com/sherlockdefi/status/1791075521968681093) |
 | Venus Protocol       | Smart contract - Solidity     | March 2024        | Cantina Competition | [Rank: 2nd 🥈](https://twitter.com/cantinaxyz/status/1786513787098468399) |
 | EigenLayer           | Smart contract - Solidity     | March 2024        | Cantina Competition | [Rank: 2nd 🥈](https://twitter.com/cantinaxyz/status/1779959887444820174)|
