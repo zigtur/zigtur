@@ -15,7 +15,7 @@ More of my work can be found at [zigtur/audits](https://github.com/zigtur/audits
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
-| Ethereum Pectra      | Infrastructure  (Go, Rust, Java, C#, ...) | March 2025  | Cantina Competition | [Rand: 2nd](https://cantina.xyz/competitions/pectra/leaderboard)        |
+| Ethereum Pectra      | Infrastructure  (Go, Rust, Java, C#, ...) | March 2025  | Cantina Competition | [Rand: 2nd 🥈](https://cantina.xyz/competitions/pectra/leaderboard)        |
 | Ronin Network        | Infrastructure - go-ethereum  | January 2025      | Cantina Competition | [Rank: 3rd 🥉](https://x.com/cantinaxyz/status/1900168513022812443) |
 | Berachain            | Infrastructure - Cosmos SDK   | January 2025      | Cantina Competition | [Rank: 1st 🥇](https://x.com/cantinaxyz/status/1890090708364849172) |
 | Tensor               | Smart contract - Solana       | November 2024     | Cantina Competition | [Rank: 1st 🥇](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard) |
